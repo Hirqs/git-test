@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master test conflict 2");
         System.out.println("hot fix test conflict 1");
         System.out.println("master push test 1");
+        System.out.println("html pull test 1");
     }
 }
